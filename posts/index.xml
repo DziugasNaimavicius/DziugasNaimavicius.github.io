@@ -1,7 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on My Blog</title><link>https://dziugasnaimavicius.github.io/posts/</link><description>Recent content in Posts on My Blog</description><generator>Hugo -- 0.150.0</generator><language>en-us</language><lastBuildDate>Thu, 25 Sep 2025 11:57:19 +0300</lastBuildDate><atom:link href="https://dziugasnaimavicius.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Second Post</title><link>https://dziugasnaimavicius.github.io/posts/second-post/</link><pubDate>Thu, 25 Sep 2025 11:57:19 +0300</pubDate><guid>https://dziugasnaimavicius.github.io/posts/second-post/</guid><description>&lt;p&gt;Here is a standing cat!:&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Cat" loading="lazy" src="https://dziugasnaimavicius.github.io/images/cat.jpg"&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://dziugasnaimavicius.github.io/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- 0.150.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Sep 2025 11:57:19 +0300</lastBuildDate>
+    <atom:link href="https://dziugasnaimavicius.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second Post</title>
+      <link>https://dziugasnaimavicius.github.io/posts/second-post/</link>
+      <pubDate>Thu, 25 Sep 2025 11:57:19 +0300</pubDate>
+      <guid>https://dziugasnaimavicius.github.io/posts/second-post/</guid>
+      <description>&lt;p&gt;Here is a cute standing cat!:&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Cat&#34; loading=&#34;lazy&#34; src=&#34;https://dziugasnaimavicius.github.io/images/cat.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;And here&amp;rsquo;s a code block!:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;def&lt;/span&gt; &lt;span style="color:#a6e22e"&gt;hello&lt;/span&gt;():
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; print(&lt;span style="color:#e6db74"&gt;&amp;#34;Hello, World!&amp;#34;&lt;/span&gt;)
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description></item><item><title>First Post</title><link>https://dziugasnaimavicius.github.io/posts/first-post/</link><pubDate>Thu, 25 Sep 2025 11:32:22 +0300</pubDate><guid>https://dziugasnaimavicius.github.io/posts/first-post/</guid><description>&lt;p&gt;This is my very first Hugo post!!!111
-Hello everyone!:)&lt;/p&gt;</description></item></channel></rss>
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;hello&lt;/span&gt;():
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, World!&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>First Post</title>
+      <link>https://dziugasnaimavicius.github.io/posts/first-post/</link>
+      <pubDate>Thu, 25 Sep 2025 11:32:22 +0300</pubDate>
+      <guid>https://dziugasnaimavicius.github.io/posts/first-post/</guid>
+      <description>&lt;p&gt;This is my very first Hugo post!!!111
+Hello everyone!:)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
